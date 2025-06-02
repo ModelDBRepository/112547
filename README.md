@@ -1,11 +1,10 @@
-<html><pre>
-This is the readme for the model associated with the papers:
+# This is the readme for the model associated with the papers:
 
 Ref: Laventovich and Hemkin, A mathematical model of spontaneous
-calcium(II) oscillations in astrocytes.  J Theor Biol 2008;
+calcium(II) oscillations in astrocytes. *J Theor Biol* 2008;
 251(4):553-60.
 
-Abstract:
+## Abstract:
 
 Astrocytes exhibit oscillations and waves of Ca2+ ions within their
 cytosol and it appears that this behavior helps facilitate the
@@ -21,23 +20,26 @@ coupled with a receptor-independent method for producing inositol
 mimicking experimental constraints we have found that this model
 provides results that are qualitatively similar to experiment.
 
-To run the model:
+## To run the model:
 
 Expand the archive and cd into the newly created directory and run:
-xppaut Ca-Oscil-Astrocyte.ode
+`xppaut Ca-Oscil-Astrocyte.ode`
 then click on Initialcond -> Go
 
-<img src="./Glia-Oscill.JPG" alt="screenshot">
+![screenshot](./Glia-Oscill.JPG)
 
 This simulation will make graphs similar to the paper of Laventovich
-and Hemkin.  Note that the cytosolic calcium concentration shown in
+and Hemkin. Note that the cytosolic calcium concentration shown in
 figure 3 of the paper should be increased by 10-fold.
 
-The model file was supplied by:
+## The model file was supplied by:
 
 Dr. Sheng-Nan Wu
 Cardiac Electrophysiology and Systems-biology Center (CESC)
 National Cheng Kung University Medical College
 Tainan 70101, Taiwan
 e-mail: snwu@mail.ncku.edu.tw
-</pre></html>
+
+---
+
+2025-06-02: Standardized to Markdown.
