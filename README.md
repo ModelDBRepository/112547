@@ -34,10 +34,10 @@ figure 3 of the paper should be increased by 10-fold.
 
 ## The model file was supplied by:
 
-Dr. Sheng-Nan Wu
-Cardiac Electrophysiology and Systems-biology Center (CESC)
-National Cheng Kung University Medical College
-Tainan 70101, Taiwan
+Dr. Sheng-Nan Wu  
+Cardiac Electrophysiology and Systems-biology Center (CESC)  
+National Cheng Kung University Medical College  
+Tainan 70101, Taiwan  
 e-mail: snwu@mail.ncku.edu.tw
 
 ---
